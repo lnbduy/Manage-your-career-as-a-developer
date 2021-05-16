@@ -55,3 +55,16 @@
       - Work challenges
       - Future career goals
       - Areas for improvment
+  ## Handle challenges to communication
+    - Communicate accros cultures
+      - 4 Principles
+        - Establish relationships
+        - Provide context
+        - Make use of visual
+        - Learn more about different cultures
+    - Communicate accros timezones
+    - When something goes wrong
+      - Focus on the facts
+      - Don't assign blame
+      - Have actionable takeaways
+      
