@@ -7,3 +7,51 @@
       - Include yourself
       - Comment in the form of question
       - Focus on the code, not the person
+    - System processess: Managing projects
+    - System processess: Testing software
+      - Use issue template
+      - Bug priority matrix
+    - People processes: onboarding
+      - Day 0
+        - Access all systems
+        - Email: 
+          - Warm welcome
+          - Link to access the chat platform
+          - Introduction to her onboarding buddy
+          - An outline of the first week
+          - Link to all relevant obboarding documentation
+      - Day 1:
+        - Log in the team tools
+        - Join appropriate email lists
+        - Create a team intro email
+        - 1 on 1 with key personel
+      - Day 2-5:
+        - 1 on 1 with other team member
+        - Review development team documention
+        - Pitch in with onboarding documentation
+      - Second week
+      - Third week
+    - People processes: mentoring
+      - Set expectations
+      - Have clear goals
+      - Communicate freely and regularly
+  ## Effetive meetings
+    - What makes a meeting effective
+      - POWER : Purpose, Outcomes, What's in it for them, Engagement, Roles and responsibilities
+    - Agile team meeting: sprint planning
+    - Agile team meeting: sprint review
+      - Planning
+      - Righ attendees
+      - Timeboxed
+    - Agile team meeting: sprint retrospectives
+      - What went well during the sprint
+      - What would we like to change
+      - How can we implement that change
+      - Completed percentage
+      - Team velocity
+      - Number of defects reported
+    - One on ones work
+      - Current happiness with work
+      - Work challenges
+      - Future career goals
+      - Areas for improvment
